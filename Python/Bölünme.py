@@ -2,7 +2,7 @@
 a = int(input("1.sayı: "))
 
 # "%" operatörü bir sayısının diğer sayıya bölümünden kalan sonucu verir.
-if a%2==0:
+if a%3==0:
    print(a,"sayısı çifttir.")
 else:
    print(a, "sayısı tektir.")
